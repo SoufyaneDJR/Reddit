@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Users\\DJAIDER Soufyane\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "./twitter-video-dl-main/src"
+    ]
+}

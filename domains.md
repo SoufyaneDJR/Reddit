@@ -1,0 +1,12 @@
+- [x] dubz.co
+- [x] v.redd.it
+- [x] youtu.be 
+- [x] cazn.me
+- [x] streamff.co
+- [x] twitter.com
+- [x] video.twimg.com
+- [x] streamable.com
+- [x] streamin.one
+- [x] streambug.io
+- [x] youtube.com
+- [x] self.soccer

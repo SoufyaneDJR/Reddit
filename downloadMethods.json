@@ -1,0 +1,15 @@
+{
+    "twitter.com": "twitter_download",
+    "streambug.io": "source_download",
+    "v.redd.it": "reddit_download",
+    "streamable.com": "source_download",
+    "streamff.co": "source_download",
+    "self.soccer": "reddit_download",
+    "cazn.me": "source_download",
+    "dubz.co": "source_download",
+    "streamin.one": "source_download",
+    "dubz.link" : "source_download",
+    "youtu.be":"youtube_download", 
+    "youtube.com":"youtube_download",
+    "dubz.live" : "source_download"
+}
